@@ -391,6 +391,8 @@ contact-layer{
 .icons ul li {
     height: 40px;
     width: 40px;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
     list-style-type: none;
     padding-left: 12px;
     padding-top: 6px;
