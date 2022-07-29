@@ -1,0 +1,70 @@
+/*
+* @Created by: Abhishek Ashinsa
+* @Date: 29/07/2022
+* @Project: E-Tech Computers
+* */
+
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.body-s {
+    width: 100%;
+    height: 100%;
+    background-color: rgba(76, 76, 76, 0.59);
+}
+
+.head-title {
+    font-family: "Nunito Sans";
+    font-weight: 900;
+    margin-top: 3px;
+    font-size: 45px;
+    align-content: center;
+    padding-top: 10px;
+    margin-left: 40%;
+    color: #000000;
+}
+.head-topic {
+    width: 100%;
+    background-image: linear-gradient(rgb(93, 112, 238), rgb(165, 185, 250));
+}
+
+.aside {
+    padding-left: 1px;
+    width: 300px;
+    height: fit-content;
+    background-image: linear-gradient(rgb(179, 179, 179), rgb(165, 185, 250));
+    border-color: #000000;
+    transform: translate(0ch);
+    transition: 0.5s;
+}
+
+.aside:hover {
+    box-shadow: 0 0 20px 0px rgba(7, 0, 0, 0.877);
+}
+
+.aside-head {
+    font-family: 'Poppins', sans-serif;
+    font-size: 24px;
+    font-weight: 600;
+    padding-top: 15px;
+    color: black;
+}
+
+.brand-div {
+    margin-left: 50px;
+}
+
+.brands {
+    font-family: 'Poppins', sans-serif;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.head-div {
+    width: 1017px;
+    height: 50px;
+    margin-left: 300px;
+    background-color: black;
+}
